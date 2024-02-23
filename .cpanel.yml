@@ -3,4 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/xrzwopex/public_html/firstgitrepo
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp aboutus.html $DEPLOYPATHgh
+    - /bin/cp aboutus.html $DEPLOYPATH
